@@ -3,6 +3,12 @@
 
 ###流程
 
+启动elasticsearch
+
+```
+docker run -d -p 9200:9200 elasticsearch
+```
+
 开启数据储存服务端
 
 ```
